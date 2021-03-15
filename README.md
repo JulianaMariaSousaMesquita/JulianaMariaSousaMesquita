@@ -2,7 +2,7 @@
 <h3 align = "center">✨ Seja Bem-vindo (a)!✨</h3>
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
-- 🎓 Estudante de Sistemas de Informação <a href="http://www.uff.br/?q=curso/sistemas-de-informacao/1122221/bacharelado/niteroi"> <img align="center" src="http://www.uff.br/sites/default/files/imagens-das-paginas/th-uff-news.png" alt="UFF" height="10" width="10" /> </a>
+- 🎓 Estudante de Sistemas de Informação <a href="http://www.uff.br/?q=curso/sistemas-de-informacao/1122221/bacharelado/niteroi"> <img align="center" src="http://www.uff.br/sites/default/files/imagens-das-paginas/th-uff-news.png" alt="UFF" height="20" width="20" /> </a>
 - 🚀 Desenvolvedora full-stack web em desenvolvimento
 - ❤ Sou apaixonada por cachorros, gatos, natureza, praia, trilhas, séries, documentários, animes, jogos e explorar locais novos.
 <br>
