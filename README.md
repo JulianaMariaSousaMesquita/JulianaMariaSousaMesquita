@@ -11,15 +11,11 @@
 <a href="https://www.linkedin.com/in/juliana-maria-de-sousa-mesquita-1b86a0189/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"">
   </a> 
-                                                                                                                             <a href="mailto:Julianamariasousamesquita@id.uff.com"> <img src="" alt="Gmail"></a> <a href="https://www.instagram.com/kamilapereiira_/"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+                                                                                                                             <a >
   
 ### 📊 GitHub estatísticas:
-[![Top Langs]<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=julianamariasousamesquita&show_icons=true&locale=en&layout=compact" alt = "julianamariasousamesquita" /> </p><br>
-
-
-
-<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=julianamariasousamesquita&show_icons=true&locale=en" alt = "julianamariasousamesquita" /> </p>
-
+[![Top Langs]<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=julianamariasousamesquita&show_icons=true&locale=en&layout=compact" alt = "julianamariasousamesquita" /> </p>
+<br>
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=julianamariasousamesquita&" alt = "julianamariasousamesquita" /> </p>
 
 
