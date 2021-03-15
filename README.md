@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Juliana Mesquita 👩💻 </h1>
-<h2 align = "center">✨ Seja Bem-vindo (a)!✨</h2>
+<h3 align = "center">✨ Seja Bem-vindo (a)!✨</h3>
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓 Estudante de Sistemas de Informação 
@@ -9,15 +9,10 @@
 
 ### 📫 Entre em contato comigo:
 <a href="https://linkedin.com/in/juliana-maria-de-sousa-mesquita-1b86a0189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-maria-de-sousa-mesquita-1b86a0189/" height="30" width="40" /></a>
-
 <a href="https://instagram.com/juliana_maria_sousa_mesquita/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juliana_maria_sousa_mesquita/" height="30" width="40" /></a>
-
 <a href="https://dev.to/https://dev.to/julianamariasousamesquita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/julianamariasousamesquita" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/14250789/juliana-maria-desousa-mesquita?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14250789/juliana-maria-desousa-mesquita?tab=profile" height="30" width="40" /></a>
-
 <a href="https://codesandbox.com/julianamariasousamesquita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="julianamariasousamesquita" height="30" width="40" /></a>
-
 <a href="https://discord.gg/JulianaMesquita#4543" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="JulianaMesquita#4543" height="30" width="40" /></a>                                                                                                                    
 <br>
 
