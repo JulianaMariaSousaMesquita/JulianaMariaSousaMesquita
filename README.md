@@ -9,6 +9,7 @@
 
 ### 📫 Entre em contato comigo:
 <a target="blank" href="https://www.linkedin.com/in/juliana-maria-de-sousa-mesquita-1b86a0189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn""></a>
+  
 <a href="https://dev.to/https://dev.to/julianamariasousamesquita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/julianamariasousamesquita" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juliana-maria-de-sousa-mesquita-1b86a0189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-maria-de-sousa-mesquita-1b86a0189/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users//14250789/juliana-maria-desousa-mesquita?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="/14250789/juliana-maria-desousa-mesquita?tab=profile" height="30" width="40" /></a>
