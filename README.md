@@ -5,7 +5,7 @@
 - 🎓 Estudante de Sistemas de Informação <a href="http://www.uff.br/?q=curso/sistemas-de-informacao/1122221/bacharelado/niteroi"> <img align="center" src="http://www.uff.br/sites/default/files/imagens-das-paginas/th-uff-news.png" alt="UFF" height="20" width="20" /> </a>
 - 🚀 Desenvolvedora full-stack web em desenvolvimento
 - ❤ Sou apaixonada por cachorros, gatos, natureza, praia, trilhas, séries, documentários, animes, jogos e explorar locais novos.
-<br>
+<br><br>
 
 
 ### 📫 Entre em contato comigo:
@@ -14,7 +14,7 @@
 <a href="https://dev.to/julianamariasousamesquita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/julianamariasousamesquita" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14250789/juliana-maria-desousa-mesquita?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14250789/juliana-maria-desousa-mesquita?tab=profile" height="30" width="40" /></a>
 <a href="https://codesandbox.com/julianamariasousamesquita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="julianamariasousamesquita" height="30" width="40" /></a>                                                                                                             
-<br>
+<br><br>
 
 
 ### ⚡ Languages and Tools:
@@ -26,13 +26,13 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<br>
+<br><br>
 
 
 
 ### 📊 GitHub estatísticas:
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=julianamariasousamesquita&show_icons=true&locale=en&layout=compact" alt = "julianamariasousamesquita" /> </p>
-<br>
+<br><br>
 
 
 <!--
