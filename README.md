@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**JulianaMariaSousaMesquita/JulianaMariaSousaMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align = "center"> Olá 👋, sou Juliana Mesquita 👩💻 </h1>
 <h3 align = "center"> Seja Bem-vindo (a)! </h3>
 
@@ -36,16 +31,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!--
+**JulianaMariaSousaMesquita/JulianaMariaSousaMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
