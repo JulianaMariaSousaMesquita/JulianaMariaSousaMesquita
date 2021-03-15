@@ -15,11 +15,6 @@
 ### 📊 GitHub estatísticas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMariaSousaMesquita&layout=compact&hide_border=true&theme=radical)](https://github.com/JulianaMariaSousaMesquita/github-readme-stats)<br>
 
-
-
-<h3 align = "left"> Suporte: </h3>
-<p> <a href="https://www.buymeacoffee.com/JulianaMesquita"> <img align = "left" src = "https: // cdn .buymeacoffee.com / buttons / v2 / default-yellow.png "height =" 50 "width =" 210 "alt =" JulianaMesquita "/> </a> </p> <br> <br>
-
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=julianamariasousamesquita&show_icons=true&locale=en&layout=compact" alt = "julianamariasousamesquita" /> </p>
 
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=julianamariasousamesquita&show_icons=true&locale=en" alt = "julianamariasousamesquita" /> </p>
