@@ -7,14 +7,17 @@
 - 🚀 Desenvolvedora full-stack web em desenvolvimento
 - ❤ Sou apaixonada por cachorros, gatos, natureza, praia, trilhas, séries, documentários, animes, jogos e explorar locais novos.
 
+<br>
+
 ### 📫 Entre em contato comigo:
 <a href="https://www.linkedin.com/in/juliana-maria-de-sousa-mesquita-1b86a0189/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"">
   </a> 
-                                                                                                                             <a >
-  
+
+<br>
+
 ### 📊 GitHub estatísticas:
-[![Top Langs]<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=julianamariasousamesquita&show_icons=true&locale=en&layout=compact" alt = "julianamariasousamesquita" /> </p>
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=julianamariasousamesquita&show_icons=true&locale=en&layout=compact" alt = "julianamariasousamesquita" /> </p>
 <br>
 
 
