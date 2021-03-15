@@ -4,7 +4,7 @@
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓 Estudante de Sistemas de Informação 
-- 🚀 Desenvolvedora front-end em desenvolvimento
+- 🚀 Desenvolvedora full-stack web em desenvolvimento
 - ❤ Sou apaixonada por cachorros, gatos, natureza, praia, trilhas, séries, documentários, animes, jogos e explorar locais novos.
 
 ### 📫 Entre em contato comigo:
