@@ -6,7 +6,9 @@
 - 🚀 Desenvolvedora full-stack web em desenvolvimento (Iniciante)
 - ❤ Sou apaixonada por cachorros 	🐶, gatos 🐱, natureza🌻, praia🌅, trilhas⛺, séries🎬, documentários📖, animes💟, jogos🎮 e explorar locais novos🌍.
 - 📃<a href="https://julianamariasousamesquita.github.io/JulianaMesquita/"> Currículo online </a>
+- 📊<a href="https://drive.google.com/drive/folders/1hBxP_RJgmwPJMfkh1NWt3BCYNjPwRc1D?usp=sharing"> Certificados </a>
 <br><br>
+
 
 
 ### 📫 Entre em contato comigo:
