@@ -5,7 +5,7 @@
 - 🎓 Sistemas de Informação <a href="http://www.uff.br/?q=curso/sistemas-de-informacao/1122221/bacharelado/niteroi"> <img align="center" src="http://www.uff.br/sites/default/files/imagens-das-paginas/th-uff-news.png" alt="UFF" height="20" width="20" /> </a>
 - 🚀 Programadora em desenvolvimento
 - ❤ Sou apaixonada por cachorros 	🐶, gatos 🐱, natureza🌻, praia🌅, trilhas⛺, séries🎬, documentários📖, animes💟, jogos🎮 e explorar locais novos🌍
-- 📃<a target="_blank" href="https://julianamariasousamesquita.github.io/JulianaMesquita/"> Currículo online </a>
+- 📃<a target="_blank" href="https://julianamariasousamesquita.github.io/JulianaMariaSousaMesquita/"> Currículo online </a>
 - 📊<a target="_blank" href="https://drive.google.com/drive/folders/1hBxP_RJgmwPJMfkh1NWt3BCYNjPwRc1D?usp=sharing"> Certificados </a>
 <br><br>
 
