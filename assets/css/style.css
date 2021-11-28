@@ -1,5 +1,7 @@
 /* Author: Juliana Mesquita */
 
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
 /* ESTILOS GERAIS */
 html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li, a, main{
     margin: 0;
@@ -14,8 +16,8 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
 }
 
 :root{
-    --corBackgroundPrimaria: #45dbfc;
-    --corBackgroundSecundaria: #04133d;
+    --corBackgroundPrimaria: #BA55E0;
+    --corBackgroundSecundaria: #4b1248;
     --corBackgroundDark:#0e0e0e;
     --corTextPrimaria:#636363;
     --corTextoSecudaria:#000;
@@ -26,12 +28,17 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
     display: none;
 }
 
+header a:hover{
+    background-color: var(--corBackgroundPrimaria);
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 50%;
+}
 
 /* BODY */
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Righteous', cursive;
 }
-
 
 /* HEADER */
 header{
@@ -144,7 +151,6 @@ main .column section ul li strong{
     margin: 5px 0 10px;
     display: inline-block;
 }
-
 
 /* EXTRAS */
 .ativar-dark{
