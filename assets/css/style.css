@@ -18,7 +18,7 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
 :root{
     --corBackgroundPrimaria: #BA55E0;
     --corBackgroundSecundaria: #4b1248;
-    --corBackgroundDark:#0e0e0e;
+    --corBackgroundDark:#0e0e0ead;
     --corTextPrimaria:#636363;
     --corTextoSecudaria:#000;
 
@@ -123,7 +123,7 @@ main .column{
     padding: 20px;
 }
 main .column section{
-    border-bottom: 1px solid #d4e9ff;
+    border-bottom: 1px solid var(--corBackgroundPrimaria);
     margin: 0 0 20px;
     min-height: 187px;
     color:var(--corTextoSecudaria);
@@ -177,13 +177,13 @@ label span{
     width: 20px;
     height: 20px;
     display: block;
-    background-color: #d4e9ff;
+    background-color: var(--corBackgroundPrimaria);
     border-radius: 100%;
     transition: all ease .3s;
 }
 
 .ativar-dark:checked ~ .dark-mode label{
-    background-color: #d4e9ff;
+    background-color: var(--corBackgroundPrimaria);
 }
 .ativar-dark:checked ~ .dark-mode label span{
     background-color: var(--corBackgroundSecundaria);
@@ -260,7 +260,7 @@ label span{
         text-align: left;
     }
     main .column section{
-        /* border: 2px solid #d4e9ff; */
+        /* border: 2px solid var(--corBackgroundPrimaria); */
         border: 2px solid transparent;
         padding: 20px;
         position: relative;
@@ -279,8 +279,8 @@ label span{
         animation-duration: 1s, 1s;
         animation-delay: 2s, 3s;
         animation-fill-mode: forwards;
-        border-top-color: #d4e9ff;
-        border-right-color: #d4e9ff;
+        border-top-color: var(--corBackgroundPrimaria);
+        border-right-color: var(--corBackgroundPrimaria);
     }
     main .column section .bootom-left{
         bottom: -2px;
@@ -289,8 +289,8 @@ label span{
         animation-duration: 1s, 1s;
         animation-delay: 4s, 5s;
         animation-fill-mode: forwards;
-        border-bottom-color: #d4e9ff;
-        border-left-color: #d4e9ff;
+        border-bottom-color: var(--corBackgroundPrimaria);
+        border-left-color: var(--corBackgroundPrimaria);
     }
     main .column{
         padding: 0;
