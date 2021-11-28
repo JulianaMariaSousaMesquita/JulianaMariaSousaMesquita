@@ -7,6 +7,7 @@
 - ❤ Sou apaixonada por cachorros 	🐶, gatos 🐱, natureza🌻, praia🌅, trilhas⛺, séries🎬, documentários📖, animes💟, jogos🎮 e explorar locais novos🌍
 - 📃<a target="_blank" href="https://julianamariasousamesquita.github.io/JulianaMariaSousaMesquita/"> Currículo online </a>
 - 📊<a target="_blank" href="https://drive.google.com/drive/folders/1hBxP_RJgmwPJMfkh1NWt3BCYNjPwRc1D?usp=sharing"> Certificados </a>
+- 💌<a target="_blank" href="https://padlet.com/julianamariasousamesquita/4v3oomi3ax3tl01p"> Trajetória </a>
 <br><br>
 
 
