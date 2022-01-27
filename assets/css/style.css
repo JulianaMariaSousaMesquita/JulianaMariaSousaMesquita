@@ -28,6 +28,12 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
     display: none;
 }
 
+#center {
+    width: 40%;
+    position:relative;
+    left:30%;
+}
+
 header a:hover{
     background-color: var(--corBackgroundPrimaria);
     color: #ffffff;
