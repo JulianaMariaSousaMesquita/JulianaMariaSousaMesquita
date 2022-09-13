@@ -15,6 +15,13 @@
     
     <!-- Importando imagem para barra de endereço -->
     <link rel="sortcut icon" href="favicon.ico" type="image/x-icon" />
+
+     <!-- CSS only - BOOTSTRAP -->
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    
+     <!-- JavaScript Bundle with Popper  - BOOTSTRAP -->
+     <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+ 
 </head>
 <body>    
     <input type="checkbox" id="ativar-dark"  class="ativar-dark">
@@ -35,21 +42,19 @@
                     <div class="column column-right menu"> <!--  Informações pessoais-->
                         <h1> Juliana Maria de Sousa Mesquita</h1>
                         <p> Programadora full-stack em desenvolvimento</p>
-                        <nav>
-                            <ul>
-                                <li> 
-                                <p><a href="mailto:julianamariasousamesquita@id.uff.br">julianamariasousamesquita@id.uff.br</a></p>
+                        <nav class="navbar navbar-expand-lg">
+                            <ul class="navbar-nav">
+                              <li class="nav-item active">
+                                  <a class="nav-link" href="portfolio.html">Portfólio</span></a>
                                 </li>
-                                <li>
-                                    <p>Rio de janeiro - Niterói</p>
-                                </li>
-                                <li>
-                                    <p><a href="index.html"><h3>Página Inicial</h3></a></p>
-                                </li>
-                                <li>
-                                    <p><a href="portfolio.html"><h3>Portfólio</h3></a></p>
-                                </li>
+                              <li class="nav-item active">
+                                <a class="nav-link" href="index.html">Página Inicial</span></a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="mailto:julianamariasousamesquita@id.uff.br" target="_blank">Contato</a>
+                              </li>
                             </ul>
+                          </div>
                         </nav>
                     </div>
                 </div>
@@ -69,18 +74,24 @@
                 
                         <section>
                             <span class="top-right"></span>
-                            <h2>Especialidades</h2>
+                            <h2>Formação</h2>
                             <ul>
-                                <li>HTML</li>
-                                <li>CSS</li>
-                                <li>Framework BOOTSTRAP</li>
-                                <li>JAVASCRIPT</li>
-                                <li>React</li>                                
-                                <li>JAVA</li>
-                                <li>Spring Framework</li>                                
-                                <li>Metodologias ágeis</li>
-                                <li>Banco de dados (SQL e NoSQL)</li>
-                            </ul>
+                                <li> 
+                                    <h3>Bacharel em Sistemas de informação</h3>
+                                    <strong> Universidade Federal Fluminense - UFF</strong>
+                                    <p>2016 - 2022</p>
+                                </li>
+                                <li> 
+                                    <h3>Ténico em informática para internet</h3>
+                                    <strong> Universidade Estácio de Sá</strong>
+                                    <p> 2014 - 2015 </p>
+                                </li>
+                                <li> 
+                                    <h3>Ensino Médio</h3>
+                                    <strong> Colegio Estadual David Capistrano</strong>
+                                    <p> 2010 - 2013 </p>
+                                </li>
+                            </ul>                            
                             <span class="bootom-left"></span>
                         </section>
                 
@@ -114,7 +125,7 @@
                                 <li>
                                     <h3>ANALISTA DE QUALIDADE JÚNIOR</h3>
                                     <strong>GYRA +</strong>
-                                    <p>10/05/2022 – ATUAL</p>
+                                    <p>10/05/2022 – 01/09/2022</p>
                                     <p>Resumo de atividades: Revisar e analisar especificações de sistemas, Executar roteiros de teste e revisar os resultados, Reportar e documentar problemas técnicos, Executar casos de teste (manuais ou automatizados) e analisar os resultados, Avaliar códigos de produtos de acordo com as especificações, Criar registros para documentar fases de teste e defeitos, Relatar erros e falhas para equipes de desenvolvimento, Ajudar a diagnosticar e resolver problemas, Conduzir testes pós-lançamento/pós-implementação e Trabalhar com equipes multidisciplinares para assegurar qualidade durante todo o ciclo de vida de desenvolvimento de softwares.
                                     <b>Envolvimento com:</b> Metodologia ágil, Javascript, Node.js e React.
                                     </p>                                    
@@ -149,23 +160,17 @@
                 
                         <section>
                             <span class="top-right"></span>
-                            <h2>Formação</h2>
+                            <h2>Especialidades</h2>
                             <ul>
-                                <li> 
-                                    <h3>Bacharel em Sistemas de informação</h3>
-                                    <strong> Universidade Federal Fluminense - UFF</strong>
-                                    <p>2016 - 2022</p>
-                                </li>
-                                <li> 
-                                    <h3>Ténico em informática para internet</h3>
-                                    <strong> Universidade Estácio de Sá</strong>
-                                    <p> 2014 - 2015 </p>
-                                </li>
-                                <li> 
-                                    <h3>Ensino Médio</h3>
-                                    <strong> Colegio Estadual David Capistrano</strong>
-                                    <p> 2010 - 2013 </p>
-                                </li>
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>Framework BOOTSTRAP</li>
+                                <li>JAVASCRIPT</li>
+                                <li>React</li>                                
+                                <li>JAVA</li>
+                                <li>Spring Framework</li>                                
+                                <li>Metodologias ágeis</li>
+                                <li>Banco de dados (SQL e NoSQL)</li>
                             </ul>
                             <span class="bootom-left"></span>
                         </section>

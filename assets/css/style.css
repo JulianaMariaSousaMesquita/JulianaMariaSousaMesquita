@@ -9,6 +9,10 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+    text-align: center;
+    align-items: center;
+
+    align-content: center;
 }
 
 .column{
@@ -21,7 +25,6 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
     --corBackgroundDark:#0e0e0ead;
     --corTextPrimaria:#636363;
     --corTextoSecudaria:#000;
-
 }
 
 .hidden{
