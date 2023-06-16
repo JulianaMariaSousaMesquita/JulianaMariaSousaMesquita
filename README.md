@@ -6,7 +6,7 @@
 - 🚀 Programadora em desenvolvimento
 - ❤ Sou apaixonada por cachorros 	🐶, gatos 🐱, natureza🌻, praia🌅, trilhas⛺, séries🎬, documentários📖, animes💟, jogos🎮 e explorar locais novos🌍
 - 📃<a target="_blank" href="https://julianamariasousamesquita.github.io/JulianaMariaSousaMesquita/"> Currículo online </a>
-- 📊<a target="_blank" href="https://drive.google.com/drive/folders/1hBxP_RJgmwPJMfkh1NWt3BCYNjPwRc1D?usp=sharing"> Certificados </a>
+- 📊<a target="_blank" href="https://drive.google.com/drive/folders/0B3vqwFCd3KdNfl85Q2EtZlhkd2phVjhVeFZtV0MyNVdfM0JncjhjeGNFcmhrNHV2UWE1MkU?resourcekey=0-ueUShB7kCmPW60rlXnuvrQ&usp=drive_link"> Certificados </a>
 - 💌<a target="_blank" href="https://padlet.com/julianamariasousamesquita/4v3oomi3ax3tl01p"> Trajetória </a>
 <br><br>
 
