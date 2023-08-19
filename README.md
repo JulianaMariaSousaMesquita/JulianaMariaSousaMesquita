@@ -1,79 +1,31 @@
-<h1 align = "center"> Olá 👋, sou Juliana Mesquita 👩💻 </h1>
-<h3 align = "center">✨ Seja Bem-vindo (a)!✨</h3>
+<h1 align="center"> Olá 👋, sou Juliana Mesquita 👩💻 </h1>
+<h3 align="center">✨ Seja Bem-vindo(a)! ✨</h3>
 
-### 🦸🏻‍♀️ Um pouco sobre mim:
-- 🎓 Sistemas de Informação <a href="http://www.uff.br/?q=curso/sistemas-de-informacao/1122221/bacharelado/niteroi"> <img align="center" src="http://www.uff.br/sites/default/files/imagens-das-paginas/th-uff-news.png" alt="UFF" height="20" width="20" /> </a>
+## 🦸🏻‍♀️ Um pouco sobre mim:
+- 🎓 Formada em Sistemas de Informação [<img align="center" src="http://www.uff.br/sites/default/files/imagens-das-paginas/th-uff-news.png" alt="UFF" height="20" width="20" />](http://www.uff.br/?q=curso/sistemas-de-informacao/1122221/bacharelado/niteroi)
 - 🚀 Programadora em desenvolvimento
-- ❤ Sou apaixonada por cachorros 	🐶, gatos 🐱, natureza🌻, praia🌅, trilhas⛺, séries🎬, documentários📖, animes💟, jogos🎮 e explorar locais novos🌍
-- 📃<a target="_blank" href="https://julianamariasousamesquita.github.io/JulianaMariaSousaMesquita/"> Currículo online </a>
-- 📊<a target="_blank" href="https://drive.google.com/drive/folders/0B3vqwFCd3KdNfl85Q2EtZlhkd2phVjhVeFZtV0MyNVdfM0JncjhjeGNFcmhrNHV2UWE1MkU?resourcekey=0-ueUShB7kCmPW60rlXnuvrQ&usp=drive_link"> Certificados </a>
-- 💌<a target="_blank" href="https://padlet.com/julianamariasousamesquita/4v3oomi3ax3tl01p"> Trajetória </a>
-<br><br>
+- ❤ Apaixonada por cachorros 🐶, gatos 🐱, natureza 🌻, praia 🌅, trilhas ⛺, séries 🎬, documentários 📖, animes 💟, jogos 🎮 e explorar locais novos 🌍
+- 📃 [Currículo online](https://julianamariasousamesquita.github.io/JulianaMariaSousaMesquita/)
+- 📊 [Certificados](https://drive.google.com/drive/folders/0B3vqwFCd3KdNfl85Q2EtZlhkd2phVjhVeFZtV0MyNVdfM0JncjhjeGNFcmhrNHV2UWE1MkU?resourcekey=0-ueUShB7kCmPW60rlXnuvrQ&usp=drive_link)
+- 💌 [Trajetória](https://padlet.com/julianamariasousamesquita/4v3oomi3ax3tl01p)
 
+### 📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/juliana-maria-de-sousa-mesquita-1b86a0189/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/julianamesquita/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/juliana_maria_sousa_mesquita/)
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/JulianaMariadeSousaMesquita/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/juliana62288278)
 
+## ⚡ Habilidades - Tools (learning):
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node)
 
-### 📫 Entre em contato comigo:
-<a href="https://linkedin.com/in/juliana-maria-de-sousa-mesquita-1b86a0189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-maria-de-sousa-mesquita-1b86a0189/" height="30" width="40" /></a>
-<a href="https://instagram.com/juliana_maria_sousa_mesquita/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juliana_maria_sousa_mesquita/" height="30" width="40" /></a>
-<a href="https://dev.to/julianamariasousamesquita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/julianamariasousamesquita" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14250789/juliana-maria-desousa-mesquita?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14250789/juliana-maria-desousa-mesquita?tab=profile" height="30" width="40" /></a>
-<a href="https://codesandbox.com/julianamariasousamesquita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="julianamariasousamesquita" height="30" width="40" /></a>                                                                                                             
-<br><br>
-
-
-### ⚡ Tools (learning):
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p><br><br>
-
-
-### 📊 GitHub estatísticas:
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=julianamariasousamesquita&show_icons=true&locale=en&layout=compact" alt = "julianamariasousamesquita" /> </p>
-<br><br>
-
-
-<!--
-**JulianaMariaSousaMesquita/JulianaMariaSousaMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
-  
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
- <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-
-
-<a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
-
-
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-
-
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+## 📊 GitHub estatísticas:
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julianamariasousamesquita&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianamariasousamesquita&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=julianamariasousamesquita&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
