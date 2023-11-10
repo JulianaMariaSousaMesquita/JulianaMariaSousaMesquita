@@ -5,7 +5,7 @@
 - 🎓 Formada em Sistemas de Informação [<img align="center" src="http://www.uff.br/sites/default/files/imagens-das-paginas/th-uff-news.png" alt="UFF" height="20" width="20" />](http://www.uff.br/?q=curso/sistemas-de-informacao/1122221/bacharelado/niteroi)
 - 🚀 Programadora em desenvolvimento
 - ❤ Apaixonada por cachorros 🐶, gatos 🐱, natureza 🌻, praia 🌅, trilhas ⛺, séries 🎬, documentários 📖, animes 💟, jogos 🎮 e explorar locais novos 🌍
-- 📃 [Currículo online](https://julianamariasousamesquita.github.io/JulianaMariaSousaMesquita/)
+- 📃 [Currículo online](https://julianamariasousamesquita.github.io/rocketseat-discover/)
 - 📊 [Certificados](https://drive.google.com/drive/folders/0B3vqwFCd3KdNfl85Q2EtZlhkd2phVjhVeFZtV0MyNVdfM0JncjhjeGNFcmhrNHV2UWE1MkU?resourcekey=0-ueUShB7kCmPW60rlXnuvrQ&usp=drive_link)
 - 💌 [Trajetória](https://padlet.com/julianamariasousamesquita/4v3oomi3ax3tl01p)
 
